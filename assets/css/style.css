@@ -57,6 +57,7 @@ header a {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 /*beginning of CSS values for content-container section*/
