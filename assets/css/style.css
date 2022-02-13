@@ -1,13 +1,16 @@
+/*universal properties*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*background behind all images set to gray*/
 body {
     background-color: #d9dcd6;
 }
 
+/*header values for h1 and nav and u li*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +49,7 @@ header a {
     text-decoration: none;
 }
 
+/*CSS Values for hero section/image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +59,7 @@ header a {
     background-position: center;
 }
 
+/*beginning of CSS values for content-container section*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,6 +98,7 @@ font-size: 16px;
     font-size: 36px;
 }
 
+/*beginning of CSS values for benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,6 +130,7 @@ font-size: 16px;
     max-width: 150px;
 }
 
+/*beginning of CSS values for footer*/
 footer {
     padding: 30px;
     clear: both;
